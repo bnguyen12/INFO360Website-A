@@ -1,9 +1,10 @@
 body {
     font-family: "Montserrat", sans-serif;
     text-align: center;
-    color: #7C9EAC;
-    background: linear-gradient(#DDE8EC,#E1F1E7);
+    color: rgb(79, 100, 109);
+    background-color: rgb(230, 243, 247);
     padding-top: 70px;
+    margin-top: 20px;
 }
 
 .jumbotron {
@@ -38,7 +39,7 @@ h3 {
 }
 
 .fa {
-    color: #7C9EAC;
+    color: rgb(230, 243, 247);
 }
 
 .container {
@@ -76,11 +77,11 @@ footer a, footer p {
 }
 
 .navbar {
-    background: linear-gradient(to left, #DDE8EC,#E1F1E7);
+    background-color: rgb(83, 107, 110);
 }
 
 .navbar-dark .navbar-nav .nav-link {
-    color: #7C9EAC;
+    color: rgb(173, 219, 238);
     text-decoration: none;
 }
 
@@ -93,7 +94,7 @@ footer a, footer p {
 }
 
 .navbar-dark .navbar-nav .active > .nav-link {
-    color: rgb(56, 82, 72);
+    color: rgb(167, 243, 214);
 }
 
 .mockups {
@@ -154,4 +155,10 @@ footer a, footer p {
     h2 {
         font-size: 2.5em;
     }
+}
+
+i p {
+    display: inline-block;
+    font-size: 0.5em;
+    font-family: 'Montserrat';
 }
