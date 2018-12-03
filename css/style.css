@@ -89,10 +89,6 @@ footer a, footer p {
     margin-left: 30px;
 }
 
-.navbar-collapse {
-    margin-right: 30px;
-}
-
 .navbar-dark .navbar-nav .active > .nav-link {
     color: rgb(167, 243, 214);
 }
@@ -161,4 +157,13 @@ i p {
     display: inline-block;
     font-size: 0.5em;
     font-family: 'Montserrat';
+}
+
+.form-control {
+    margin-left: 20px;
+    margin-right: 5px;
+}
+
+button {
+    margin-right: 5px;
 }
