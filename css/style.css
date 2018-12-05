@@ -115,6 +115,12 @@ footer a, footer p {
         margin: 0;
         padding: 0;
     }
+
+    .my-2 {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
 }
 
 @media (min-width: 1200px) {
